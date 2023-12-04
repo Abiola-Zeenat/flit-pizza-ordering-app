@@ -18,12 +18,12 @@
 
 .yellow_banner {
   background-color: #fbb21e;
-  border-radius: 100%;
   position: relative;
-  -webkit-transform: translate(50%);
-  transform: translate(50%);
-  height: 710px;
-  margin-top: -90%;
+  border-top-left-radius: 100% 50%;
+  border-bottom-left-radius: 100% 50%;
+  width: 25rem;
+  height: 45rem;
+  /* margin-top: -90%; */
 }
 .yellow_banner img {
   position: relative;
