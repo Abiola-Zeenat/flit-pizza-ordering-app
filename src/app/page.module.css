@@ -23,7 +23,7 @@
   border-bottom-left-radius: 100% 50%;
   width: 25rem;
   height: 45rem;
-  /* margin-top: -90%; */
+ margin-top: -90%; 
 }
 .yellow_banner img {
   position: relative;
